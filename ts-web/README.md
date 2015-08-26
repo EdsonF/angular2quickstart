@@ -1,4 +1,4 @@
-# angular2quickstart
+# Angular2 + TypeScript loaded from the web
 based on https://angular.io/docs/js/latest/quickstart.html
 
 ## quick start
