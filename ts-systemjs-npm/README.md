@@ -9,6 +9,8 @@ based on https://angular.io/docs/js/latest/quickstart.html
 
 3. `tsc -p ./src` to compile with typescript
 
-4. open a new tab and run `http-server`
+4. `npm install`
 
-5. browse to <http://localhost:8080/index.html>
+5. open a new tab and run `http-server`
+
+6. browse to <http://localhost:8080/index.html>

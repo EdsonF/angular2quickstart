@@ -18,7 +18,7 @@
       "reflect-metadata": "npm:reflect-metadata@^0.1.0"
     },
     "devDependencies": {
-      "typescript": "npm:typescript@^1.5.3"
+      "typescript": "github:mhegazy/typescript@v1.5-beta2"
     }
   }
 }

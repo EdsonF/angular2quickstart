@@ -35,7 +35,6 @@ config.js
 ### More about JSPM
 
 **Install Angular2**
-
 `jspm install angular2`
 
 **Install Angular2 support libraries**
