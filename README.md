@@ -1,14 +1,17 @@
 # angular2quickstart
 based on https://angular.io/docs/js/latest/quickstart.html
 
-## quick start
+## requirements
 
-1. `npm install -g http-server typescript tsd`
+The samples require the following packages to be isntalled globally.
 
-2. `tsd reinstall -r -o`
+`npm install -g http-server typescript tsd jspm`
 
-3. `tsc -p ./src` to compile with typescript
+## ts-web
+Loads all 3rd party libraries from web hosted servers. Not suitable for more than a demo.
 
-4. open a new tab and run `http-server`
+## ts-systemjs-npm
+Uses npm to install 3rd party libraries and system.js to load the modules.
 
-5. browse to <http://localhost:8080/index.html>
+## ts-systemjs-jspm
+Uses jspm to install 3rd party libraries and system.js to load the modules.
